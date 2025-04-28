@@ -1,0 +1,31 @@
+Loop
+
+for loop
+
+Q. Print n Hello Worlds
+
+Q. Print numbers from 1 to n and n to 1
+
+Q. Sum of n natural numbers and factorial of a number
+
+Q. Factors of a number
+
+Q. Check if a number is prime
+
+
+while loop
+
+Q. Sum of digits of a number
+
+Q. Reverse of a number
+
+Q. Check if a number is a Strong number
+
+
+do-while loop
+
+Q. Repeat hello
+
+Q. Guess the number
+
+Q. Sasta Calculator
