@@ -95,12 +95,51 @@ This repository contains JavaScript problems focused on **Advanced Array Operati
 
 ---
 
+### 🚀 Additional Problems Solved
+
+---
+
+#### 📈 Maximum Subarray (Kadane's Algorithm)
+
+**Description**: Find the contiguous subarray with the largest sum.
+
+- **Input**: `[-2,1,-3,4,-1,2,1,-5,4]`
+- **Output**: `6`
+- **Technique**: **Kadane's Algorithm**
+- 🧩 LeetCode 53. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+
+---
+
+#### 🗳️ Majority Element
+
+**Description**: Find the element that appears more than ⌊n/2⌋ times.
+
+- **Input**: `[2, 2, 1, 1, 1, 2, 2]`
+- **Output**: `2`
+- **Technique**: **Boyer-Moore Voting Algorithm**
+- 🧩 LeetCode 169. [Majority Element](https://leetcode.com/problems/majority-element/)
+
+---
+
+#### 💹 Best Time to Buy and Sell Stock
+
+**Description**: Find the maximum profit by choosing a single buy and sell day.
+
+- **Input**: `[7,1,5,3,6,4]`
+- **Output**: `5`
+- **Technique**: **One-Pass Minimum Tracking**
+- 🧩 LeetCode 121. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+---
+
 ## 📚 Key Learnings
 
 - ✔️ Mastered Left/Right Array Rotations
 - ✔️ Applied Two Pointer Technique in Merging & Duplicates
 - ✔️ In-place modifications for memory efficiency
 - ✔️ Hands-on with Dutch National Flag Algorithm
+- ✔️ Optimized Subarray and Stock Profit problems
+- ✔️ Learned Boyer-Moore Voting Algorithm for Majority Element
 
 ---
 
