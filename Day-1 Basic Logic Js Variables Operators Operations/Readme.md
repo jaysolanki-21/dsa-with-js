@@ -84,7 +84,7 @@ Welcome to Day 1 of the **DSA With JS** series! Today’s focus is on strengthen
 
 ---
 
-## 🔗 How to Run
+## 🔗 How to Run 
 
 1. Install `prompt-sync` for input-based files:
 
